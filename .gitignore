@@ -7,5 +7,3 @@ __pycache__/
 dist/
 build/
 .DS_Store
-tests/test_assets/*.mp4
-tests/test_assets/*.wav
