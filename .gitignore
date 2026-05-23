@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.DS_Store
+tests/test_assets/*.mp4
+tests/test_assets/*.wav
