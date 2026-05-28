@@ -6,6 +6,8 @@ https://opensource.org/licenses/MIT
 
 # AlectraShield
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 AlectraShield is a Python-based multi-agent deepfake detection orchestrator. It analyzes input media using a four-phase pipeline that extracts assets, performs visual and audio forensic analysis, cross-references contextual provenance, and synthesizes a final deepfake risk verdict.
 
 ## Features
