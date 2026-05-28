@@ -78,13 +78,3 @@ The pipeline follows four phases:
 3. **Audio Biometric Agent** — analyzes audio for voice cloning and synthesis signatures
 4. **Contextual Agent** — verifies media claims with external grounding
 5. **Synthesis Agent** — aggregates telemetry into a final verdict
-
-## Tests
-
-A lightweight test suite is provided in `tests/test_pipeline.py`.
-
-To run the tests:
-
-```bash
-python -m pytest tests
-```
