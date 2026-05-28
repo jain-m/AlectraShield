@@ -1,3 +1,7 @@
+# Copyright (c) 2026 jain-m (Manisha Jain)
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 """Phase 2A — Visual Forensic Agent (spatial & temporal analysis)."""
 import base64
 import json

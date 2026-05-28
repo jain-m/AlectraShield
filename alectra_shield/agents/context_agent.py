@@ -1,3 +1,7 @@
+# Copyright (c) 2026 jain-m (Manisha Jain)
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 """Phase 3 — Contextual Cross-Referencing Agent (Google Search grounding)."""
 import json
 from google import genai

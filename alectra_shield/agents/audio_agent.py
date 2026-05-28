@@ -1,3 +1,7 @@
+# Copyright (c) 2026 jain-m (Manisha Jain)
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 """Phase 2B — Audio Biometric Agent (spectral & phonetic analysis)."""
 import json
 from pathlib import Path

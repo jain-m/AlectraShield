@@ -1,3 +1,7 @@
+# Copyright (c) 2026 jain-m (Manisha Jain)
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 """Main pipeline orchestrator — runs all four phases."""
 import asyncio
 import logging

@@ -1,3 +1,7 @@
+# Copyright (c) 2026 jain-m (Manisha Jain)
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 """Smoke tests for the AlectraShield pipeline."""
 import pytest
 from unittest.mock import AsyncMock, MagicMock, patch

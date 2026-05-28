@@ -1,3 +1,7 @@
+# Copyright (c) 2026 jain-m (Manisha Jain)
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 """Phase 4 — Synthesis & Consensual Verifier (final risk aggregation)."""
 import json
 from google import genai

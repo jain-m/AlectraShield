@@ -1,3 +1,9 @@
+<!--
+Copyright (c) 2026 jain-m (Manisha Jain)
+This software is released under the MIT License.
+https://opensource.org/licenses/MIT
+-->
+
 # AlectraShield
 
 AlectraShield is a Python-based multi-agent deepfake detection orchestrator. It analyzes input media using a four-phase pipeline that extracts assets, performs visual and audio forensic analysis, cross-references contextual provenance, and synthesizes a final deepfake risk verdict.
@@ -81,17 +87,4 @@ To run the tests:
 
 ```bash
 python -m pytest tests
-```
-
-## Notes
-
-- The current workspace is not initialized as a Git repository, so this README has been created locally.
-- To upload to GitHub, initialize the repository with `git init`, add a remote, commit the file, and push it.
-
-```bash
-git init
-git add README.md
-git commit -m "Add project README"
-git remote add origin <your-github-repo-url>
-git push -u origin main
 ```
