@@ -170,12 +170,12 @@ python main.py tests/test_assets/notfake_sample.mp4
 
 # [TODO] Other test sources for later
 
-# GitHub Evaluation Assets (Test Suites): Lightweight, pre-compressed sample clips (.mp4 formats) explicitly hosted inside open-source deepfake detection repositories for automated continuous integration unit tests.
+* GitHub Evaluation Assets (Test Suites): Lightweight, pre-compressed sample clips (.mp4 formats) explicitly hosted inside open-source deepfake detection repositories for automated continuous integration unit tests.
 
-# Hugging Face Benchmark Repositories: Python-accessible public repositories hosting benchmark datasets, specifically referencing the hi-paris/FakeParts dataset and the cambrain/DigiFakeAV dataset.
+* Hugging Face Benchmark Repositories: Python-accessible public repositories hosting benchmark datasets, specifically referencing the hi-paris/FakeParts dataset and the cambrain/DigiFakeAV dataset.
 
-# FaceForensics++ (FF++): An academic dataset hosted by the Technical University of Munich that contains manipulated videos generated using automated face-swapping and facial reenactment methods.
+* FaceForensics++ (FF++): An academic dataset hosted by the Technical University of Munich that contains manipulated videos generated using automated face-swapping and facial reenactment methods.
 
-# Celeb-DF (v2): A high-quality deepfake video dataset managed by the University at Albany's Computer Vision and Machine Learning Lab, which includes authentic celebrity videos, YouTube reference clips, and synthesis face-swapped files.
+* Celeb-DF (v2): A high-quality deepfake video dataset managed by the University at Albany's Computer Vision and Machine Learning Lab, which includes authentic celebrity videos, YouTube reference clips, and synthesis face-swapped files.
 
-# Kaggle Datasets (Deepfake Detection Challenge Preview): Open-source developer mirrors or single-file previews from major competitions like the 400GB Deepfake Detection Challenge (DFDC), allowing manual downloads of individual 10–12 second clips without grabbing the full package.
+* Kaggle Datasets (Deepfake Detection Challenge Preview): Open-source developer mirrors or single-file previews from major competitions like the 400GB Deepfake Detection Challenge (DFDC), allowing manual downloads of individual 10–12 second clips without grabbing the full package.
